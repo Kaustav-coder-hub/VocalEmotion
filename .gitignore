@@ -1,0 +1,18 @@
+# Ignore Python bytecode files
+
+
+# Ignore virtual environments
+VocalEmotion-env/
+__pycache__/
+notebooks/
+TEST/
+
+# Ignore data files
+
+# Ignore specific files (e.g., model weights, logs)
+F:/CodeAlpha/VocalEmotion/data/TEST/angry.wav
+F:/CodeAlpha/VocalEmotion/data/TEST/calm.wav
+F:/CodeAlpha/VocalEmotion/data/TEST/disgust.wav
+F:/CodeAlpha/VocalEmotion/data/TEST/testaudio.wav
+
+# Ignore other sensitive files
